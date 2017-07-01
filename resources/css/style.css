@@ -25,3 +25,10 @@ p {
   color: gray;
   font-size: 21px;
 }
+
+.phone {
+  margin-top: 20px; 
+}
+.copyright {
+  text-align: right;
+}
